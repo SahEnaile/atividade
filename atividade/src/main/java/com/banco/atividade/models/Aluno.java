@@ -17,8 +17,7 @@ public class Aluno {
 
     // Getters e Setters
     public int getId() {
-        return id
-        ;
+        return id        ;
     }
 
     public void setId(int id) {
